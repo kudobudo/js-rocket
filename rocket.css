@@ -5,11 +5,6 @@
 	height: 100%;
 	top: 0;
 	left: 0;
-	color: #67C6AF;
-	font-family: 'Indie Flower', cursive;
-	text-align: center;
-	font-weight: bold;
-	font-size: 2em;
 }
 .right {
 	position: fixed;
@@ -18,9 +13,6 @@
 	height: 100%;
 	top: 0;
 	right: 0;
-	color: #337A84;
-	font-family: 'Indie Flower', cursive;
-	text-align: center;
 }
 .rocket {
 	position: absolute;
